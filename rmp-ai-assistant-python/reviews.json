@@ -1,0 +1,280 @@
+{
+  "reviews": [
+      {
+          "professor": "Prof. James Smith",
+          "review": "Exceptional teacher. Makes complex math concepts accessible to all students.",
+          "subject": "Mathematics",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Emily Johnson",
+          "review": "Very knowledgeable and patient. Great at explaining difficult topics.",
+          "subject": "Physics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Michael Brown",
+          "review": "Engaging and interactive classes. Highly recommend for chemistry students.",
+          "subject": "Chemistry",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Sarah Davis",
+          "review": "Detailed feedback on assignments. Really helps improve understanding.",
+          "subject": "Biology",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. David Wilson",
+          "review": "Very approachable and makes learning enjoyable. Excellent communication skills.",
+          "subject": "History",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Laura Martinez",
+          "review": "Great at breaking down complex topics into understandable segments.",
+          "subject": "Literature",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Daniel Garcia",
+          "review": "Encourages critical thinking and creativity. Highly motivating.",
+          "subject": "Art",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Jessica Miller",
+          "review": "Makes every class interesting with real-world examples.",
+          "subject": "Economics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Robert Taylor",
+          "review": "Very passionate about the subject. Makes learning fun.",
+          "subject": "Sociology",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Linda Anderson",
+          "review": "Provides clear explanations and is always willing to help.",
+          "subject": "Political Science",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Charles Thomas",
+          "review": "Good at engaging students and encouraging participation.",
+          "subject": "Philosophy",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Karen Jackson",
+          "review": "Excellent at making abstract concepts more relatable.",
+          "subject": "Psychology",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. James White",
+          "review": "Knowledgeable and provides insightful feedback on assignments.",
+          "subject": "Computer Science",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Elizabeth Harris",
+          "review": "Very approachable and offers helpful advice on projects.",
+          "subject": "Engineering",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. William Clark",
+          "review": "Creates a dynamic learning environment with lots of hands-on activities.",
+          "subject": "Biochemistry",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Mary Lewis",
+          "review": "Cares about student success and offers excellent support.",
+          "subject": "Statistics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Richard Walker",
+          "review": "Brings a wealth of experience and knowledge to the classroom.",
+          "subject": "Geology",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Susan Hall",
+          "review": "Highly organized and makes the learning process smooth.",
+          "subject": "Astronomy",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Joseph Allen",
+          "review": "Passionate about teaching and provides excellent resources.",
+          "subject": "Theology",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Nancy Young",
+          "review": "Excellent at engaging students with real-world examples.",
+          "subject": "Linguistics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Thomas King",
+          "review": "Inspires students to think critically and creatively.",
+          "subject": "Art History",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Margaret Scott",
+          "review": "Very detailed in explanations and helpful with questions.",
+          "subject": "Statistics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Christopher Wright",
+          "review": "Makes complex subjects easier to understand through practical examples.",
+          "subject": "Engineering",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Jennifer Adams",
+          "review": "Great at fostering a collaborative and supportive classroom environment.",
+          "subject": "Mathematics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Daniel Nelson",
+          "review": "Engages students with thought-provoking discussions and assignments.",
+          "subject": "History",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Jessica Carter",
+          "review": "Provides insightful feedback and encourages academic growth.",
+          "subject": "Physics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Paul Mitchell",
+          "review": "Passionate about the subject and makes lectures very interesting.",
+          "subject": "Chemistry",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Lisa Roberts",
+          "review": "Highly knowledgeable and approachable with a great teaching style.",
+          "subject": "Biology",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Brian Lee",
+          "review": "Engages students with a variety of learning methods and resources.",
+          "subject": "Computer Science",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Karen Martinez",
+          "review": "Provides practical and useful insights that apply to real-world scenarios.",
+          "subject": "Economics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. David Harris",
+          "review": "Creates an engaging learning environment with practical applications.",
+          "subject": "Sociology",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Emily Collins",
+          "review": "Approachable and offers valuable support for students.",
+          "subject": "Political Science",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Jonathan Phillips",
+          "review": "Stimulating classes with challenging and rewarding assignments.",
+          "subject": "Philosophy",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Megan Evans",
+          "review": "Excellent at providing feedback and fostering student success.",
+          "subject": "Psychology",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Robert Green",
+          "review": "Provides a comprehensive understanding of complex subjects.",
+          "subject": "Computer Science",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Laura Adams",
+          "review": "Very supportive and provides clear explanations of difficult concepts.",
+          "subject": "Engineering",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. James Turner",
+          "review": "Outstanding teacher with a focus on student development.",
+          "subject": "Biochemistry",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Amanda Thompson",
+          "review": "Highly effective at making complex subjects accessible.",
+          "subject": "Statistics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. William White",
+          "review": "Incredibly knowledgeable and provides a stimulating learning experience.",
+          "subject": "Geology",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Jennifer Lewis",
+          "review": "Engaging and informative, with a focus on student participation.",
+          "subject": "Astronomy",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Charles Harris",
+          "review": "Provides excellent resources and support for academic growth.",
+          "subject": "Theology",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Elizabeth Clark",
+          "review": "Creates a supportive and interactive learning environment.",
+          "subject": "Linguistics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Daniel Robinson",
+          "review": "Very effective at explaining abstract concepts with clarity.",
+          "subject": "Art History",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Nancy Walker",
+          "review": "Provides thorough and helpful feedback on assignments.",
+          "subject": "Statistics",
+          "stars": 4
+      },
+      {
+          "professor": "Prof. Michael Young",
+          "review": "Creates an engaging learning atmosphere with practical applications.",
+          "subject": "Engineering",
+          "stars": 5
+      },
+      {
+          "professor": "Prof. Jessica Wright",
+          "review": "Highly engaging and encourages a collaborative learning environment.",
+          "subject": "Mathematics",
+          "stars": 4
+      }
+  ]
+}
